@@ -1,75 +1,67 @@
 # Hi, I'm Adam Stříbný.
 
-**Front-End Developer · Founder of VERBA Studio**
+**Front-End Developer · Founder of VERBA Studio**<br>
+Czech Republic
 
-I design and build modern websites with a focus on visual identity, usability, responsive layouts, and thoughtful front-end implementation.
+I design and build websites with a clear visual identity, responsive layouts and considered front-end implementation. I run [VERBA](https://verbastudio.cz/), a small independent web studio, and work directly with businesses and creative agencies.
 
-I'm based in the Czech Republic and run **[VERBA Studio](https://verbastudio.cz/)** — an independent web studio creating presentation websites, landing pages, and white-label front-end solutions for businesses and creative agencies.
-
-My work combines design, front-end development, and AI-assisted workflows to turn ideas into polished digital experiences.
-
----
+My background includes a bachelor's education with a focus on Computer Science at the University of Ostrava. I use AI-assisted development as part of my workflow, alongside source review, browser testing and hands-on visual refinement.
 
 ## Selected Work
 
+Three original portfolio concepts. Each explores a different industry and visual direction; none is presented as commissioned client work. All three include Czech and English content in one Vue application.
+
 ### VOIDLINE DETAILING
-**Automotive · Premium landing page**
 
-A dark, high-contrast automotive concept with an emphasis on bold typography, visual impact, and premium detailing aesthetics.
+Automotive · A dark, high-contrast detailing concept with bold typography, close-up photography and a keyboard-operated surface study.
 
-[Live Demo](https://voidline.verbastudio.cz/)
+[![VOIDLINE DETAILING — actual desktop preview](assets/voidline-detailing.png)](https://voidline.verbastudio.cz/en/)
+
+[Live — CZ](https://voidline.verbastudio.cz/) · [Live — EN](https://voidline.verbastudio.cz/en/) · [Source](https://github.com/Asmodaai/voidline-detailing)
 
 ### DAILY RITUAL
-**Beauty · Editorial website**
 
-A minimalist skincare concept exploring refined typography, soft visual hierarchy, and elegant product presentation.
+Beauty / skincare · Light editorial layouts, original packaging illustrations and a quiet, responsive interface built around everyday rituals.
 
-[Live Demo](https://dailyritual.verbastudio.cz/)
+[![DAILY RITUAL — actual desktop preview](assets/daily-ritual.png)](https://dailyritual.verbastudio.cz/en/)
+
+[Live — CZ](https://dailyritual.verbastudio.cz/) · [Live — EN](https://dailyritual.verbastudio.cz/en/) · [Source](https://github.com/Asmodaai/daily-ritual)
 
 ### MEZI
-**Gastro · Café website**
 
-A warm, welcoming hospitality concept combining editorial layouts with an approachable local business identity.
+Café / gastronomy · A warm hospitality concept with expressive type, a browsable menu, an image gallery and a front-end-only reservation demo.
 
-[Live Demo](https://mezi.verbastudio.cz/)
+[![MEZI — actual desktop preview](assets/mezi-cafe.png)](https://mezi.verbastudio.cz/en/)
 
-*All three projects are original portfolio concepts created to demonstrate different visual and front-end approaches. They are not presented as commissioned client work. Czech and English versions are available.*
-
----
+[Live — CZ](https://mezi.verbastudio.cz/) · [Live — EN](https://mezi.verbastudio.cz/en/) · [Source](https://github.com/Asmodaai/mezi-cafe)
 
 ## Technologies & Workflow
 
-**Front-end:** Vue.js · JavaScript · HTML5 · CSS3 · Vite
+**Build:** Vue.js · JavaScript · HTML5 · CSS3 · Vite<br>
+**Delivery:** Git / GitHub · Netlify · browser QA<br>
+**Approach:** responsive implementation, shared locale data, lightweight components and attention to keyboard interaction.
 
-**Focus:** Responsive Web Design · UI Implementation · Accessibility · Performance
-
-**Workflow:** Git · GitHub · AI-Assisted Development · Netlify
-
----
+I use AI tools to support development and iteration. The published projects show the implementation, design decisions and checks behind the work.
 
 ## VERBA Studio
 
-**Your brand. My implementation.**
+Landing pages, business and presentation websites, microsites and white-label front-end development.
 
-I work directly with businesses and agencies on websites that prioritize visual quality, clarity, and maintainability.
+For businesses, I work directly on the site's structure, visual direction and implementation. For agencies, I can deliver a defined front-end scope from an approved design while their creative direction and client relationship stay with them.
 
-**Services:** Landing Pages · Business Websites · White-Label Front-End Development
-
-[Visit VERBA Studio](https://verbastudio.cz/)
-
----
+[VERBA — Czech](https://verbastudio.cz/) · [VERBA — English](https://verbastudio.cz/en/)
 
 ## Certifications
 
-- freeCodeCamp — JavaScript Algorithms and Data Structures
-- Udemy — Vue.js: The Complete Guide, Maximilian Schwarzmüller
+- **freeCodeCamp — Legacy JavaScript Algorithms and Data Structures V8**<br>
+  Developer Certification · 2024 · [Verify](https://www.freecodecamp.org/certification/asmodaai/javascript-algorithms-and-data-structures-v8)
+- **Udemy — Vue - The Complete Guide (incl. Router & Composition API)**<br>
+  Maximilian Schwarzmüller · Certificate of Completion · 2026 · [Verify](https://ude.my/UC-bb8ad145-8a23-4bef-8443-3d82854d28be)
 
 ## Beyond Code
 
-Automotive enthusiast with a particular interest in JDM and Mitsubishi. Also passionate about design, music, and history.
+I'm drawn to JDM and Mitsubishi, automotive culture, music and history. Different interests, the same attention to character and detail.
 
----
+## Contact
 
-**Let's build something.**
-
-[VERBA Studio](https://verbastudio.cz/) · [adam@verbastudio.cz](mailto:adam@verbastudio.cz)
+[adam@verbastudio.cz](mailto:adam@verbastudio.cz) · [verbastudio.cz](https://verbastudio.cz/)
