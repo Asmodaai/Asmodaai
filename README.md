@@ -1,4 +1,4 @@
-# Hi, I'm Adam Stříbný.
+# Hi, I'm Adam Strzibny.
 
 **Front-End Developer · Founder of VERBA Studio**<br>
 Czech Republic
